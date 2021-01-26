@@ -20,7 +20,7 @@
   <a href="https://github.com/TharindaDilshan/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharindaDilshan&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharindaDilshan&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/TharindaDilshan/github-readme-stats">
