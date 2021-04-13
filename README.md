@@ -5,10 +5,6 @@
 <!--
 <img title="Tharinda's GitHub Stats" align="right" heigth="300" width="400" src="https://github.com/TharindaDilshan/TharindaDilshan/blob/main/octocat.png"/>
 -->
-  
-🔭 I’m currently working as an Intern at WSO2
-
-👯 Always looking forward to help and learn together
 
 📬 Reach me:
 
