@@ -9,7 +9,7 @@
 📬 Reach me:
 
 [<img src="https://img.shields.io/github/followers/TharindaDilshan?label=follow&style=social" height="22" title="Follow me" />](https://github.com/TharindaDilshan) 
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tharinda-dilshan-piyadasa" height="22" title="LinkedIn" />](https://www.linkedin.com/in/tharinda-dilshan-piyadasa) 
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tharinda-dilshan-piyadasa" height="22" title="LinkedIn" />](https://www.linkedin.com/in/tharinda-d) 
 [<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tharinda_dilshan97" height="22" title="Instagram" />](https://www.instagram.com/tharinda_dilshan97)
 
 <p align="center">
