@@ -12,7 +12,7 @@
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tharinda-dilshan-piyadasa" height="22" title="LinkedIn" />](https://www.linkedin.com/in/tharinda-d) 
 [<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tharinda_dilshan97" height="22" title="Instagram" />](https://www.instagram.com/tharinda_dilshan97)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/TharindaDilshan/github-readme-stats">
     <img
       align="center"
@@ -26,7 +26,7 @@
       src="https://github-readme-stats.vercel.app/api?username=TharindaDilshan&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
     />
   </a>
-</p>
+</p> -->
 
 <!--
 **TharindaDilshan/TharindaDilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
