@@ -1,44 +1,29 @@
-### Heyo, did you bring donuts? <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  
+# Heyo, did you bring donuts? <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  
 
 <img align="center" heigth="250" width="200" src="https://github.com/TharindaDilshan/TharindaDilshan/blob/main/octocat.png"/>
 
-<!--
-<img title="Tharinda's GitHub Stats" align="right" heigth="300" width="400" src="https://github.com/TharindaDilshan/TharindaDilshan/blob/main/octocat.png"/>
--->
+I'm Tharinda, an AI research engineer specializing in computer vision with a passion for medical image processing. I have experience in developing deep learning models for image classification, segmentation, and object detection, and have worked on a variety of projects, including the development of real-time suspiciousness detection and face recognition.
 
-📬 Reach me:
+## 🔭 Current work
+
+- Developing an AI-based real-time suspiciousness detection tool.
+
+## 🌱 What I'm learning
+
+- Currently learning about the latest advancements in deep learning for medical image analysis.
+- Actively reading up on how computer vision can be applied to address environmental challenges and promote social and economic sustainability.
+
+## 👯 Looking to collaborate
+
+- I'm always looking to collaborate on research projects related to computer vision, data science, and natural language processing. I'm particularly interested in conducting interdisciplinary research, and I believe that combining expertise from multiple fields can lead to breakthroughs and innovative solutions.
+
+## 📫 How to reach me
 
 [<img src="https://img.shields.io/github/followers/TharindaDilshan?label=follow&style=social" height="22" title="Follow me" />](https://github.com/TharindaDilshan) 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tharinda-dilshan-piyadasa" height="22" title="LinkedIn" />](https://www.linkedin.com/in/tharinda-d) 
 [<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tharinda_dilshan97" height="22" title="Instagram" />](https://www.instagram.com/tharinda_dilshan97)
 
-<!-- <p align="center">
-  <a href="https://github.com/TharindaDilshan/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharindaDilshan&exclude_repo=cravingslk-cms-joomla&langs_count=6&layout=compact&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/TharindaDilshan/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=TharindaDilshan&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
-    />
-  </a>
-</p> -->
+## ⚡ Fun fact
 
-<!--
-**TharindaDilshan/TharindaDilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an adrenaline junkie and love trying out new extreme sports and activities in my free time. I also love binge-watching true crime documentaries.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
