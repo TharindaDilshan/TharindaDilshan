@@ -2,7 +2,7 @@
 
 <img align="center" heigth="250" width="200" src="https://github.com/TharindaDilshan/TharindaDilshan/blob/main/octocat.png"/>
 
-I'm Tharinda, an AI research engineer specializing in computer vision with a passion for medical image processing. I have experience in developing deep learning models for image classification, segmentation, and object detection, and have worked on a variety of projects, including the development of real-time suspiciousness detection and face recognition.
+I'm Tharinda, an AI research engineer specializing in computer vision with a passion for medical image processing. I have experience in developing deep learning models for image classification, segmentation, and object detection, and have worked on a variety of projects, including the development of real-time suspiciousness detection and face recognition tools.
 
 ## 🔭 Current work
 
