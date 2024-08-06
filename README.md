@@ -4,19 +4,6 @@
 
 I'm Tharinda, an AI research engineer specializing in computer vision with a passion for medical image processing. I have experience in developing deep learning models for image classification, segmentation, and object detection, and have worked on a variety of projects, including the development of real-time suspiciousness detection and face recognition tools.
 
-## 🔭 Current work
-
-- Developing an AI-based real-time suspiciousness detection tool.
-
-## 🌱 What I'm learning
-
-- Currently learning about the latest advancements in deep learning for medical image analysis.
-- Actively reading up on how computer vision can be applied to address environmental challenges and promote social and economic sustainability.
-
-## 👯 Looking to collaborate
-
-- I'm always looking to collaborate on research projects related to computer vision, data science, and natural language processing. I'm particularly interested in conducting interdisciplinary research, and I believe that combining expertise from multiple fields can lead to breakthroughs and innovative solutions.
-
 ## 📫 How to reach me
 
 [<img src="https://img.shields.io/github/followers/TharindaDilshan?label=follow&style=social" height="22" title="Follow me" />](https://github.com/TharindaDilshan) 
